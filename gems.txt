@@ -1,0 +1,312 @@
+             Celluloid       BLUE             2         1.38         1.50
+                  Opal       BLUE             6         2.10         1.45
+              Sodalite       BLUE           5.5         2.30         1.48
+               Leucite       BLUE             6         2.47        1.495
+                Iolite       BLUE             7         2.59         1.53
+       Chalcedony.dyed       BLUE           6.5         2.60         1.53
+           Quartz dyed       BLUE             7         2.65         1.55
+            Aquamarine       BLUE           7.5         2.69         1.57
+           Labradorite       BLUE             6         2.70        1.559
+             Scapolite       BLUE          5.00         2.70         1.55
+          Calcite dyed       BLUE             3         2.71        1.486
+             Turquoise       BLUE             6         2.80         1.62
+          Lapis Lazuli       BLUE           5.5         2.80         1.50
+              Nephrite       BLUE          5.00         2.96        1.606
+            Tourmaline       BLUE           7.5         3.06         1.62
+              Lazulite       BLUE          5.75         3.09        1.612
+              Fluorite       BLUE             4         3.18        1.434
+             Spodumene       BLUE          6.75         3.18         1.66
+               Apatite       BLUE             5         3.21         1.64
+               Diamond       BLUE            10         3.52         2.42
+                Spinel       BLUE             8         3.60         1.72
+        Spinel (synth)       BLUE             8         3.63         1.73
+             Benitoite       BLUE          6.25         3.67        1.757
+               Kyanite       BLUE          5.00         3.68        1.716
+           Chrysoberyl       BLUE           8.5         3.71         1.74
+              Corundum       BLUE             9         3.99         1.76
+        Rutile (synth)       BLUE           6.5         4.25         2.62
+           Smithsonite       BLUE           5.5         4.35        1.621
+         Zircon (blue)       BLUE           7.5         4.69         1.92
+             Alabaster       GREY             2         2.32         1.53
+              Bakelite       GREY           2.5         1.28         1.65
+                Casein       GREY           2.5         1.33         1.55
+              Celluoid       GREY             2         1.35         1.50
+            Chalcedony       GREY             7         2.62         1.53
+                 Ivory       GREY           2.5         1.80         1.54
+                Marble       GREY             3         2.71         1.50
+            Meerschaum       GREY             2         1.50         1.53
+                Quartz       GREY             7         2.65         1.55
+                  Opal       GREY             6         2.10         2.10
+                Quartz       GREY             7         3.33         2.65
+           Labradorite       GREY             6          2.7         2.70
+               Calcite       GREY             3          2.7         2.71
+                  Talc       GREY             1         2.70         2.75
+              Nephrite       GREY           3.5         3.00         2.96
+               Jadeite       GREY             7         3.34         3.33
+               Diamond       GREY            10         3.52         3.52
+              Corundum       GREY             9         3.99         3.99
+              Hematite       GREY             6         5.10         5.05
+      Almandite Garnet     PURPLE           7.5          4.2         1.80
+            Andalusite     PURPLE           7.5          3.5        1.635
+              Amethyst     PURPLE             7         2.65         1.54
+               Apatite     PURPLE             5          3.2        1.638
+               Axinite     PURPLE             7         3.29         1.69
+               Azurite     PURPLE          3.75          3.8         1.79
+     Beryl (Morganite)     PURPLE           7.5          2.7         1.58
+   Corundum (sapphire)     PURPLE             9            4        1.764
+               Diamond     PURPLE            10        3.515        2.418
+              Diopside     PURPLE          5.00         3.29         1.69
+          Dumortierite     PURPLE             7          3.3         1.68
+              Fluorite     PURPLE             4         3.18        1.434
+                Iolite     PURPLE             7         2.63        1.535
+     Quartz (Amethyst)     PURPLE             7         2.65        1.548
+      Rhodolite Garnet     PURPLE           7.5          3.6         1.73
+             Scapolite     PURPLE             6          2.7        1.555
+                Spinel     PURPLE             8          3.6        1.717
+          Synth spinel     PURPLE             8         3.52        1.728
+   Spodumene (Kunzite)     PURPLE           6.5         3.18         1.67
+             Taaffeite     PURPLE             8         3.61         1.72
+                 Topaz     PURPLE             8         3.53         1.63
+            Tourmaline     PURPLE           7.5         3.06         1.63
+                Zircon     PURPLE           7.5         4.69         1.95
+               Zoisite     PURPLE           6.5         3.35        1.695
+      Almandite Garnet     PURPLE           7.5         4.05         1.79
+               Jadeite     PURPLE          6.75         3.34         1.67
+                Quartz     PURPLE             7         2.66        1.548
+             Stichtite     PURPLE          1.75         2.16         1.53
+             Fire Opal        RED             6         2.00         1.45
+            Chalcedony        RED          6.75         2.60         1.54
+      Scapolite (pink)        RED           6.5         2.63         1.56
+                Quartz        RED             7         2.65         1.54
+                 Coral        RED           3.5         2.68         1.57
+       Beryl morganite        RED           7.5         2.71         1.58
+             Scapolite        RED           6.5         2.70         1.56
+                Pyrope        RED          7.25         3.78        1.746
+             Pollucite        RED           6.5         2.92        1.525
+             Phenakite        RED          7.75         2.96         1.66
+             Danburite        RED             7         3.00         1.63
+            Tourmaline        RED           7.5         3.08         1.63
+            Andalusite        RED          7.25         3.15         1.64
+              Fluorite        RED             4         3.18        1.434
+               Apatite        RED             5         3.21         1.64
+       Zoisite thulite        RED          6.00         3.34         1.70
+             Rhodonite        RED             6         3.54         1.72
+               Epidote        RED          6.00         3.45         1.75
+               Diamond        RED            10         3.52         2.42
+        Topaz (yellow)        RED             8         3.53         1.63
+         Rhodochrosite        RED             4         3.60         1.80
+                Spinel        RED             8         3.60         1.72
+        Spinel (synth)        RED             8         3.63         1.73
+             Benitoite        RED          6.25         3.67         1.78
+           Chrysoberyl        RED           8.5         3.71         1.75
+              Corundum        RED             9         3.99         1.77
+               Painite        RED             8         4.01         1.80
+            Sphalerite        RED          3.75         4.09         2.37
+                Zircon        RED           7.5         4.50         1.95
+           Spessartine        RED          7.25         4.16         1.81
+        Cubic Zirconia        RED             8         5.75         2.15
+           Cassiterite        RED          6.00         6.90         2.04
+                   GGG        RED           6.5         7.05         2.02
+                 Ivory      WHITE           2.5         1.80         1.54
+             Alabaster      WHITE             2         2.32         1.53
+              Bakelite      WHITE           2.5         1.28         1.65
+                Casein      WHITE           2.5         1.33         1.55
+              Celluoid      WHITE             2         1.35         1.50
+            Chalcedony      WHITE             7         2.62         1.53
+                 Coral      WHITE           3.5         2.68        1.565
+                Marble      WHITE             3         2.71         1.50
+            Meerschaum      WHITE             2         1.50         1.53
+                 Pearl      WHITE           3.5         2.70         1.57
+                Quartz      WHITE             7         2.65         1.55
+                  Opal      WHITE             6         2.10         2.10
+           Labradorite      WHITE             6          2.7         2.70
+               Calcite      WHITE             3          2.7         2.71
+                  Talc      WHITE             1         2.70         2.75
+              Nephrite      WHITE           3.5         3.00         2.96
+               Jadeite      WHITE             7         3.34         3.33
+               Diamond      WHITE            10         3.52         3.52
+              Corundum      WHITE             9         3.99         3.99
+                Garnet      BLACK          6.75         3.84        1.885
+           Black Coral      BLACK          3.75         1.35         1.57
+            Chalcedony      BLACK          6.75          2.6         1.54
+              Corundum      BLACK             9          4.0         1.77
+              Diopside      BLACK          5.00         3.29         1.69
+               Diamond      BLACK            10         3.52        2.417
+              Hematite      BLACK          6.00          5.2         3.00
+              Nephrite      BLACK          6.25         2.95         1.62
+               Jadeite      BLACK          6.75         3.32         1.67
+                   Jet      BLACK          3.25         1.32         1.66
+           Labradorite      BLACK          6.25          2.7         1.56
+              Obsidian      BLACK          5.25          2.4          1.5
+                  Opal      BLACK          5.75         2.15         1.45
+                 Pearl      BLACK          3.25          2.7         1.57
+            Tourmaline      BLACK          7.25         3.06         1.63
+                 Amber      BROWN          2.25         1.08         1.54
+               Anatase      BROWN          5.75          3.9         2.52
+            Andalusite      BROWN          7.25         3.18         1.64
+               Apatite      BROWN             5         3.18         1.64
+               Axinite      BROWN          6.75         3.29         1.68
+                 Beryl      BROWN          7.75          2.7         1.58
+                 Blend      BROWN           3.2         4.09         2.37
+           Cassiterite      BROWN          6.00         6.95         2.04
+           Chrysoberyl      BROWN           8.5         3.72         1.75
+                 Copal      BROWN             2         1.06         1.54
+              Corundum      BROWN             9            4         1.77
+               Diamond      BROWN            10         3.52        2.417
+              Fluorite      BROWN             4         3.18        1.434
+          Grossularite      BROWN             7         3.61        1.735
+              Idocrase      BROWN           6.5          3.4         1.72
+           Kornerupine      BROWN           6.5          3.3         1.67
+           Labradorite      BROWN             6          2.7         1.56
+              Obsidian      BROWN             5         2.45          1.5
+           Opal (fire)      BROWN          5.75            2         1.45
+               Peridot      BROWN          6.00         3.34         1.67
+                Quartz      BROWN             7         2.66      1.544/3
+          Synth Rutile      BROWN          6.25         4.26         2.76
+             Sinhalite      BROWN          6.00         3.45         1.69
+             Scheelite      BROWN             5         6.12         1.93
+           Spessartite      BROWN          7.25         4.15         1.81
+            Sphalerite      BROWN          3.75         4.05         2.37
+                Sphene      BROWN          5.25         3.52         1.97
+                Spinel      BROWN             8          3.6        1.718
+            Staurolite      BROWN          7.25         3.75         1.74
+                 Topaz      BROWN             8         3.53         1.62
+            Tourmaline      BROWN          7.25         3.07         1.63
+             Willemite      BROWN           5.5            4         1.71
+          Zircon(high)      BROWN          7.25          4.7         1.95
+           Amblygonite  COLORLESS             6         3.02         1.62
+               Apatite  COLORLESS             5         3.20         1.64
+              Augalite  COLORLESS             4          2.7         1.58
+             Benitoite  COLORLESS          6.25         3.67         1.78
+                 Beryl  COLORLESS          7.75         2.70         1.58
+           Beryllonite  COLORLESS          5.75         2.83         1.56
+          Brazilianite  COLORLESS           5.5         2.99         1.61
+              Corundum  COLORLESS             9         3.98         1.77
+             Danburite  COLORLESS             7            3         1.63
+               Diamond  COLORLESS            10         3.51        2.417
+               Euclase  COLORLESS           7.5          3.1        1.665
+              Fluorite  COLORLESS             4         3.18        1.434
+              Feldspar  COLORLESS          6.25         2.59         1.53
+                   GGG  COLORLESS           6.5         7.02         2.02
+          Grossularite  COLORLESS             7         3.61        1.735
+            Hambergite  COLORLESS           7.5         2.35         1.59
+               Jadeite  COLORLESS          6.75         3.34         1.67
+           Labradorite  COLORLESS             6          2.7         1.56
+               Leucite  COLORLESS             6          2.5        1.495
+                  Opal  COLORLESS          5.75         2.09         1.45
+              Petalite  COLORLESS          6.25          2.4         1.51
+             Phenakite  COLORLESS          7.75         2.95         1.66
+                Quartz  COLORLESS             7         2.66         1.55
+             Rhodizite  COLORLESS             8          3.4         1.69
+         Rutile(synth)  COLORLESS          6.25         4.25         2.76
+             Scapolite  COLORLESS           6.5         2.68         1.56
+             Scheelite  COLORLESS             5         6.12         1.93
+                Spinel  COLORLESS             8          3.6        1.718
+          Synth.Spinel  COLORLESS             8         3.64         1.73
+             Strontium  COLORLESS          5.00         5.13        2.409
+             spodumene  COLORLESS          6.00         3.18         1.67
+                 Topaz  COLORLESS             8         3.53         1.63
+            Tourmaline  COLORLESS          7.25         3.12         1.63
+                Zircon  COLORLESS           7.5         4.35         1.90
+                  Opal      GREEN          6.00         2.45         1.45
+                 Beryl      GREEN          7.75         2.71        1.566
+           Chrysoberyl      GREEN           8.5          3.7         1.75
+            Synth alex      GREEN           8.5          3.7         1.75
+              Corundum      GREEN             9            4         1.77
+               Diamond      GREEN            10         3.52        2.417
+          Grossularite      GREEN             7         3.61        1.735
+               Peridot      GREEN          6.75         3.34         1.67
+            Chalcedony      GREEN          6.75          2.6         1.54
+                Quartz      GREEN             7         2.66         1.55
+                Spinel      GREEN             8          3.6        1.718
+                 Topaz      GREEN             8         3.53         1.61
+            Tourmaline      GREEN          7.25         3.06         1.63
+                Zircon      GREEN          7.00         4.51         1.90
+            Andalusite      GREEN          7.25         3.17         1.64
+          Brazilianite      GREEN           5.5         2.94         1.61
+              Datolite      GREEN          5.25         2.95         1.65
+               Ekanite      GREEN          6.25         3.28        1.597
+             Enstatite      GREEN           5.5         3.25         1.66
+               Epidote      GREEN          6.00          3.4         1.75
+               Euclase      GREEN           7.5          3.1         1.66
+              Fluorite      GREEN             4         3.18        1.434
+               Gahnite      GREEN           7.5         4.55         1.80
+           Gahnospinal      GREEN           7.5         4.01         1.75
+               Jadeite      GREEN          6.75         3.34         1.67
+           Kornerupine      GREEN           6.5          3.3         1.67
+               Kyanite      GREEN          5.00         3.62         1.72
+             Moldavite      GREEN           5.5          2.4         1.48
+              Obsidian      GREEN          5.25          2.4         1.49
+           Pseudophite      GREEN           2.5          2.7         1.58
+            Sphalerite      GREEN          3.75         4.05         2.37
+                Sphene      GREEN          5.25         3.52         1.97
+             Spodumene      GREEN          6.00         3.18         1.67
+             Willemite      GREEN           5.5            4         1.71
+            Aventurine      GREEN          5.75          2.6         1.55
+          Agalmatolite      GREEN           2.5          2.8         1.58
+            Chalcedony      GREEN             7          2.6         1.55
+              Diopside      GREEN          5.00         3.35         1.69
+              Faustite      GREEN          6.25          2.8         1.63
+              Idocrese      GREEN           6.5          3.4        1.708
+           Labradorite      GREEN             6          2.7         1.56
+             Malachite      GREEN             4            4         1.78
+            Microcline      GREEN          6.25         2.56         1.53
+              Nephrite      GREEN          6.00         2.95         1.62
+              Prehnite      GREEN          6.25         2.90         1.63
+           Pseudophite      GREEN           2.5          2.7         1.58
+                Quartz      GREEN             7         2.66         1.55
+            Saussurite      GREEN          6.75          3.2         1.71
+            Serpentine      GREEN          3.00         2.57         1.56
+           Sillimanite      GREEN          6.00          3.2         1.67
+           Smithsonite      GREEN             5         4.40         1.74
+              Steatite      GREEN          1.25         2.75         1.56
+             Turquoise      GREEN          5.75          2.8         1.63
+            Tourmaline      GREEN          7.25         3.08         1.63
+             Variscite      GREEN          4.00         2.35         1.58
+               Verdite      GREEN             7         3.10         1.58
+               Zoisite      GREEN           6.5         3.35        1.695
+                 Amber     YELLOW          2.25         1.08         1.54
+               Anatase     YELLOW          5.75          3.9         2.52
+            Andalusite     YELLOW          7.25         3.18         1.64
+               Apatite     YELLOW             5         3.18         1.64
+               Axinite     YELLOW          6.75         3.29         1.68
+                 Beryl     YELLOW          7.75          2.7         1.58
+                 Blend     YELLOW           3.2         4.09         2.37
+           Cassiterite     YELLOW          6.00         6.95         2.04
+           Chrysoberyl     YELLOW           8.5         3.61         1.75
+                 Copal     YELLOW             2         1.06         1.54
+              Corundum     YELLOW             9            4         1.77
+               Diamond     YELLOW            10         3.52        2.417
+              Fluorite     YELLOW             4         3.18        1.434
+          Grossularite     YELLOW             7         3.61        1.735
+              Idocrase     YELLOW           6.5          3.4         1.72
+           Kornerupine     YELLOW           6.5          3.3         1.67
+           Labradorite     YELLOW             6          2.7         1.56
+              Obsidian     YELLOW             5         2.45          1.5
+           Opal (fire)     YELLOW          5.75            2         1.45
+               Peridot     YELLOW          6.00         3.34         1.67
+                Quartz     YELLOW             7         2.66      1.544/3
+          Synth Rutile     YELLOW          6.25         4.26         2.76
+             Sinhalite     YELLOW          6.00         3.45         1.69
+             Scheelite     YELLOW             5         6.12         1.93
+           Spessartite     YELLOW          7.25         4.15         1.81
+            Sphalerite     YELLOW          3.75         4.05         2.37
+                Sphene     YELLOW          5.25         3.52         1.97
+                Spinel     YELLOW             8          3.6        1.718
+            Staurolite     YELLOW          7.25         3.75         1.74
+                 Topaz     YELLOW             8         3.53         1.62
+            Tourmaline     YELLOW          7.25         3.07         1.63
+             Willemite     YELLOW           5.5            4         1.71
+          Zircon(high)     YELLOW          7.25          4.7         1.95
+                  Opal      CLEAR             6         2.10         1.45
+       Lithium niobate      CLEAR           5.5         4.64         2.25
+             Phenacite      CLEAR           7.5         2.96         1.66
+             Moonstone      CLEAR             6         2.57         1.52
+                 Beryl      CLEAR           7.5         2.70         1.58
+            Tourmaline      CLEAR          7.25         3.06         1.63
+              Fluorite      CLEAR             4         3.18        1.434
+               Diamond      CLEAR            10         3.52         2.42
+                 Topaz      CLEAR             8         3.56         1.62
+                Spinel      CLEAR             8         3.60        1.718
+        Spinel (synth)      CLEAR             8         3.63        1.718
+        Rutile (synth)      CLEAR          6.25         4.25         2.76
