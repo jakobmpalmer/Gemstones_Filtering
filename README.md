@@ -3,5 +3,23 @@ This problem uses multiple processes and a stored file of information to address
 
 *  NOTE  This is currently incomplete code, at the moment a personal project I am working on it as time permits.
 
-Instructions for compilation
+##### Instructions for compilation
 Prepare your favorite C compiler. This will be gcc for Linux/OSX, or a third party program for Windows. I chose to use [Mingw](http://www.mingw.org/).
+
+```bash
+gcc your_file_name.c -o your_program_name
+```
+
+The -o flag is used to specify your output file name. This will be the file we use to execute the program. 
+
+On Linux, given you are in the same directory as your output file, we can use the following command to run our file.
+
+```bash
+./your_program_name
+```
+
+And on Windows we can simply use our filename.
+
+```bash
+your_program_name
+```
