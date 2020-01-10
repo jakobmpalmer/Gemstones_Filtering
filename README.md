@@ -6,6 +6,14 @@ This problem uses multiple processes and a stored file of information to address
 ##### Instructions for compilation
 Prepare your favorite C compiler. This will be gcc for Linux/OSX, or a third party program for Windows. I chose to use [Mingw](http://www.mingw.org/).
 
+Use the -v flag to check your gcc version.
+
+```bash
+gcc -v
+```
+
+Once you confirm you have your compiler setup you can compile the C code like so.
+
 ```bash
 gcc your_file_name.c -o your_program_name
 ```
